@@ -8,6 +8,6 @@ __NOTE:__ the answer given was 34 which I believe is wrong as of the 37 places t
 
 I found the top 5 establishments with rating value of '5' and lowest hygiene score, nearest to the restaurant added, "Penang Flavours"?
 
-__NOTE:__ I removed an isntance of 'hygiene score' of NONE as that is technically not a score.
+__NOTE:__ I removed an instance of 'hygiene score' of NONE as that is technically not a score.
 
 Finally I found the number of places in each Local Authority with a hygiene score of 0.
